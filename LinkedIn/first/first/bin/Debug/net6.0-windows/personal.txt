@@ -1,0 +1,9 @@
+ali,zain,alizain@gmail.com,12
+hassan,ali,hassan@gmail.com,12
+zain,ali,zain@gmail.com,12
+faraz,ahmad,faraz@gmail.com,12
+ahmad,hassan,ahmad,12
+sami,ali,sami@gmail.com,12
+ali,zain,ali@gmail.com,12
+faraz,ali,faraz@gmail.com,12
+hassan,ali,hassan@gmail.com,12
